@@ -12,6 +12,7 @@ Estudiar el comportamiento de los fenómenos relacionados a la inductancia y mat
 •	Investigar acerca de la aplicación de estos elementos en la industria
 
 # MARCO TEORICO
+![39](https://user-images.githubusercontent.com/85193519/130654478-61ca2839-b7fb-4a02-8174-f4974d3f6910.jpg)
 
 # RESOLUCION DE EJERCICIOS
 * CAPITULO 13
@@ -58,7 +59,7 @@ Estudiar el comportamiento de los fenómenos relacionados a la inductancia y mat
 ![37](https://user-images.githubusercontent.com/85193519/130646725-ab35804c-6859-41dc-a6a7-7a76eab10f1a.jpg)
 
 # VIDEO
-
+https://www.youtube.com/watch?v=T2_YHjCve9s
 # CONCLUSIONES
 -Logramos verificar de cierta manera que el efecto de la inductancia llega a ser algo similar al efecto de inercia en un sistema mecánico.
 
